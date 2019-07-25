@@ -1,4 +1,4 @@
-package com.company.factory.button;
+package com.company.factory_method.button;
 
 public class HtmlButton implements Button {
     @Override

@@ -1,8 +1,8 @@
-package com.company.factory;
+package com.company.factory_method;
 
-import com.company.factory.dialog.Dialog;
-import com.company.factory.dialog.HtmlDialog;
-import com.company.factory.dialog.WindowsDialog;
+import com.company.factory_method.dialog.Dialog;
+import com.company.factory_method.dialog.HtmlDialog;
+import com.company.factory_method.dialog.WindowsDialog;
 
 public class FactoryMethod {
 

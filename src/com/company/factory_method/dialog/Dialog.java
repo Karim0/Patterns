@@ -1,6 +1,6 @@
-package com.company.factory.dialog;
+package com.company.factory_method.dialog;
 
-import com.company.factory.button.Button;
+import com.company.factory_method.button.Button;
 
 public abstract class Dialog {
 

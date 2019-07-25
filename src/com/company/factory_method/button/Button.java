@@ -1,4 +1,4 @@
-package com.company.factory.button;
+package com.company.factory_method.button;
 
 public interface Button {
     void render();
