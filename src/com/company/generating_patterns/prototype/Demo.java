@@ -36,7 +36,7 @@ public class Demo {
 
         for (int i = 0; i < shapes.size(); i++) {
             if (shapes.get(i) != shapesCopy.get(i)) {
-                System.out.println(i + ": Shapes are different objects (yay!)");
+                System.out.println(i + ": Shape are different objects (yay!)");
                 if (shapes.get(i).equals(shapesCopy.get(i))) {
                     System.out.println(i + ": And they are identical (yay!)");
                 } else {
